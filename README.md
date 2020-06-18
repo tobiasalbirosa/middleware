@@ -1,5 +1,5 @@
 # middleware
-Middleware with nodejs and express, we can views and the users can't insert GETs via our URL 
+Middleware with nodejs and express, we can add views and redirect users who can't insert GETs via our URL for our correct routing flow. 
  
  
  What the app do?
